@@ -16,6 +16,10 @@ To install this plugin, you have two options:
 1. If you have Package Control installed, simply search for `Knockdown` to install.
 2. Clone source code to Sublime Text packages folder.
 
+> **Note:** after installing this package, open a markdow file and switch the language
+> to `Markdown (Github Flavored)` from the list of supported languages in your status 
+> bar at the bottom right corner of your editor. 
+
 #### Syntax Highlighting support
 * Coffeescript
 * Javascript and Json
