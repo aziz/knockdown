@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/Knockdown/Knockdown.tmTheme",
+	"auto_match_enabled": true,
+	"draw_indent_guides": false,
+	"caret_style": "wide",
+	"font_face": "Consolas",
+	"font_size": 17,
+	"gutter": false,
+	"line_numbers": false,
+	"highlight_line": false,
+	"spell_check": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 24,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true,
+	"wrap_width": 90,
+	"extensions":
+	[
+		"md",
+		"markdown",
+		"mdown"
+	]
+}
