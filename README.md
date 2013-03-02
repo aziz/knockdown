@@ -1,14 +1,20 @@
-# Knockdown
-Github flavored Markdown for SublimeText and a custom theme for writing markdown.
+# [Knockdown](https://github.com/aziz/knockdown)
+Github flavored Markdown for SublimeText and a custom color-scheme for writing markdown.
 
 ### Features:
 * Support for fenced code blocks
-* Syntax highlighting support for most popular languages (see below for the list of languages)
-* Syntax highlighting for URLs in text which is autolinked by GFM
+* Syntax highlighting support for most popular languages (see below for the list of supported languages)
+* Syntax highlighting for URLs in text which is auto-linked by GFM
 * Proper syntax highlighting for bullets and numbers in ordered/unordered lists
 * Proper syntax highlighting for bold and italics by ignoring multiple underscores in words
 
 ![Screenshot](screenshot.png)
+
+### Installation
+To install this plugin, you have two options:
+
+1. If you have Package Control installed, simply search for `Knockdown` to install.
+2. Clone source code to Sublime Text packages folder.
 
 #### Syntax Highlighting support
 * Coffeescript
@@ -29,3 +35,6 @@ Github flavored Markdown for SublimeText and a custom theme for writing markdown
 * YAML
 * Diff
 * SQL
+
+## License
+Copyright 2012-2013 [Allen Bargi](https://twitter.com/aziz). Licensed under the MIT License
