@@ -1,21 +1,63 @@
 {
+    // Sets the colors used within the text area
 	"color_scheme": "Packages/knockdown/Knockdown.tmTheme",
+
+    // Controls auto pairing of quotes, brackets etc
 	"auto_match_enabled": true,
+
+    // Set to false to turn off the indentation guides.
+    // The color and width of the indent guides may be customized by editing
+    // the corresponding .tmTheme file, and specifying the colors "guide",
+    // "activeGuide" and "stackGuide"
 	"draw_indent_guides": false,
+
+    // Valid values are "smooth", "phase", "blink", "wide" and "solid".
 	"caret_style": "wide",
+
+    // Note that the font_face and font_size are overriden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
 	"font_face": "Consolas",
 	"font_size": 17,
+
+    // Set to false to hide the gutter altogether
 	"gutter": false,
+
+    // Set to false to prevent line numbers being drawn in the gutter
 	"line_numbers": false,
+
+    // If enabled, will highlight any line with a caret
 	"highlight_line": false,
+
+    // Set to true to turn spell checking on by default
 	"spell_check": true,
+
+    // Additional spacing at the bottom of each line, in pixels
 	"line_padding_bottom": 2,
+
+    // Additional spacing at the top of each line, in pixels
 	"line_padding_top": 2,
+
+    // Spacing between the gutter and the text
 	"margin": 24,
+
+    // The number of spaces a tab is considered equal to
 	"tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
 	"translate_tabs_to_spaces": true,
+
+    // Set to true to removing trailing white space on save
 	"trim_trailing_white_space_on_save": false,
+
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
 	"word_wrap": true,
+
+    // Set to a value other than 0 to force wrapping at that column rather than the
+    // window width
 	"wrap_width": 90,
 	"extensions":
 	[
