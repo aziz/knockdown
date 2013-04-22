@@ -20,6 +20,11 @@ To install this plugin, you have two options:
 > to `Markdown (Github Flavored)` from the list of supported languages in your status 
 > bar at the bottom right corner of your editor. 
 
+> **Note:** if you do not like the settings (including the used color scheme), which
+> are provided with this packages, please go to `Preferences -> Package Settings -> Knockdown`
+> and click on `Settings - User`. Repeat that for `Settings - Default`, copy all the
+> settings to the user settings file and edit those you don't like.
+ 
 #### Syntax Highlighting support
 * Coffeescript
 * Javascript and Json
