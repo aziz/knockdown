@@ -1,0 +1,12 @@
+BUGS:
+ ☐ HTML tags inside markdown
+ ☐ Markdown highlighting inside HTML tags
+ ☐ Code within list item isn't highlighted
+ ☐ Italic has some bugs
+ ☐ List highlighting does not work if there is no empty line before the list
+
+TODO:
+ ☐ update image
+ ☐ update readme: preview
+ ☐ sample test documents
+
