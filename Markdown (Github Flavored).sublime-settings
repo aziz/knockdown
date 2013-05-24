@@ -11,36 +11,8 @@
     // "activeGuide" and "stackGuide"
 	"draw_indent_guides": false,
 
-    // Valid values are "smooth", "phase", "blink", "wide" and "solid".
-	"caret_style": "wide",
-
-    // Note that the font_face and font_size are overriden in the platform
-    // specific settings file, for example, "Preferences (Linux).sublime-settings".
-    // Because of this, setting them here will have no effect: you must set them
-    // in your User File Preferences.
-	"font_face": "Consolas",
-	"font_size": 17,
-
-    // Set to false to hide the gutter altogether
-	"gutter": false,
-
     // Set to false to prevent line numbers being drawn in the gutter
 	"line_numbers": false,
-
-    // If enabled, will highlight any line with a caret
-	"highlight_line": false,
-
-    // Set to true to turn spell checking on by default
-	"spell_check": true,
-
-    // Additional spacing at the bottom of each line, in pixels
-	"line_padding_bottom": 2,
-
-    // Additional spacing at the top of each line, in pixels
-	"line_padding_top": 2,
-
-    // Spacing between the gutter and the text
-	"margin": 24,
 
     // The number of spaces a tab is considered equal to
 	"tab_size": 4,
