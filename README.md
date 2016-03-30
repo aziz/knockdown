@@ -1,3 +1,7 @@
+### This package is not maintained anymore. [PlainNotes](https://github.com/aziz/PlainNotes) has much better support for markdown and much more.
+
+----
+
 # [Knockdown](https://github.com/aziz/knockdown)
 Github flavored Markdown for SublimeText and a custom color-scheme for writing markdown.
 
